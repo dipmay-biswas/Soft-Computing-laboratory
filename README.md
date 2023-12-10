@@ -33,8 +33,6 @@ Have questions, seeking guidance, or just want to discuss the wonders of Soft Co
 - **Twitter:** [dipmay_biswas](https://twitter.com/dipmay_biswas)
 - **LinkedIn:** [Dipmay Biswas](https://www.linkedin.com/in/dipmay-biswas-72a374227/)
 
-## 🚀 Contribute to the Lab
+---
 
-Become a part of the Soft Computing exploration! Contribute, experiment, and create your algorithms. We welcome collaborations to elevate the collective intelligence of our laboratory.
-
-May your code be crisp, your logic be fuzzy, and your experiments be enlightening! 🌐✨
+**DISCLAIMER:** Like every other engineering students, all these were last minute submissions. So don't expect them to 100% accurate.
